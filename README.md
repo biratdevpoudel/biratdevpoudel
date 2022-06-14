@@ -7,18 +7,10 @@
 <img src="https://img.shields.io/badge/-Birat%20Dev%20Poudel.-blue?style=for-the-badge" width=400>
 
 
-<img src="https://img.shields.io/badge/-Passionate%20Fullstack%20Web%20Developer.-black?style=for-the-badge" width=400>
+<img src="https://img.shields.io/badge/-Tired%20of%20Being%20so%20Tired.-black?style=for-the-badge" width=400>
 
 <h2>Connect With Me</h2>
 
-
-
-<!-- <a href="mailto:regmicmahesh@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a> 
-<a href="https://facebook.com/regmicmahesh">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>  -->
 
 <a href="https://twitter.com/sirgilmour">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
@@ -45,19 +37,18 @@
 ## Statistics
 
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=biratdevpoudel&theme=black-ice&count_private=true&show_icons=true" height=200>
+  <img src="https://github-readme-stats.vercel.app/api?username=biratdevpoudel&theme=midnight-purple&count_private=true&show_icons=true" height=200>
 </div>  
 
 #
 
 <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabinbaniya&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=biratdevpoudel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </div>
 
 
-# Github Graph:
 
-![github_graph](/profile-3d-contrib/profile-night-rainbow.svg)
-
+## Visitor's Count:
 
 
+![Visitor's Count](https://profile-counter.glitch.me/%7Bbiratdevpoudel%7D/count.svg)
