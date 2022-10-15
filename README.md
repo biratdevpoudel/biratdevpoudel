@@ -8,12 +8,10 @@
 
 <h2>Connect With Me</h2>
 
-<!-- <a href="https://twitter.com/sirgilmour">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>  -->
-<a href="https://www.github.com/biratdevpoudel" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/biratdevpoudel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
+> > > > > > > 51cca6c2cc1d8894274c89a23e7e85a785602378
+> > > > > > > <a href="https://www.github.com/biratdevpoudel" target="_blank" rel="noreferrer">
+> > > > > > > <img src="https://img.shields.io/github/followers/biratdevpoudel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+> > > > > > > </a>
 
 ## Skills
 
