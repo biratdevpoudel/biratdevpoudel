@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/-Birat%20Dev%20Poudel.-blue?style=for-the-badge" width=400>
 
-<img src="https://img.shields.io/badge/-Passionate%20Fullstack%20Web%20Developer.-black?style=for-the-badge" width=400>
+<img src="https://img.shields.io/badge/-Passionate%20Frontend%20Web%20Developer.-black?style=for-the-badge" width=400>
 
 <h2>Connect With Me</h2>
 
