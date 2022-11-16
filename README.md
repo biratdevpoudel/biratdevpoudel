@@ -42,7 +42,7 @@
 
 # 
 
-<a href="https://app.daily.dev/biratdevpoudel">
+<a align="center" href="https://app.daily.dev/biratdevpoudel">
   <img src="https://api.daily.dev/devcards/f2fc2941a8fb48c2ac81c9e2f1674298.png?r=dan" width="400" alt="Birat Poudel's Dev Card"/>
 </a>
 
