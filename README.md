@@ -30,14 +30,17 @@
 
 ## Statistics
 
-<div align='left'>
+<div align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=biratdevpoudel&theme=midnight-purple&count_private=true&show_icons=true" height=200>
-</div>
-<div align="right">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=biratdevpoudel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </div>
 
 #
+
+<div align="center">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=biratdevpoudel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</div>
+
+# 
 
 <a href="https://app.daily.dev/biratdevpoudel">
   <img src="https://api.daily.dev/devcards/f2fc2941a8fb48c2ac81c9e2f1674298.png?r=dan" width="400" alt="Birat Poudel's Dev Card"/>
