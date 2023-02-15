@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/TypeScript-0176C8?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=reactnative&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react-native&logoColor=61DAFB)
 ![Figma](https://img.shields.io/badge/Figma-2B2D30?style=for-the-badge&logo=figma&logoColor=FD715E)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
