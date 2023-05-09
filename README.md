@@ -26,7 +26,7 @@
 ![Figma](https://img.shields.io/badge/Figma-2B2D30?style=for-the-badge&logo=figma&logoColor=FD715E)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-18DF16?style=for-the-badge&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/React-Testing-Library-E13332?style=for-the-badge&logo=react-testing-library&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/ReactTestingLibrary-E13332?style=for-the-badge&logo=react-testing-library&logoColor=white)
 
 ## Statistics
 
