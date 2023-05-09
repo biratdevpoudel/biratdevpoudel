@@ -25,6 +25,7 @@
 ![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react-native&logoColor=61DAFB)
 ![Figma](https://img.shields.io/badge/Figma-2B2D30?style=for-the-badge&logo=figma&logoColor=FD715E)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-18DF16?style=for-the-badge&logo=jest&logoColor=white)
 
 ## Statistics
 
