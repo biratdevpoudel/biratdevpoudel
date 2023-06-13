@@ -27,12 +27,12 @@
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
 ## Statistics
-
+<!-- 
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=biratdevpoudel&theme=midnight-purple&count_private=true&show_icons=true" height=200>
 </div>
 
-#
+# -->
 
 <div align="center">
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=biratdevpoudel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
